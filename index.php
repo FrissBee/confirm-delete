@@ -102,7 +102,7 @@ if($_POST){
           <button slot="right" class="btn btn-danger mt-3 btn-submit-3" type="submit" value="submit button three">confirm</button>
         </confirm-delete>
 
-        <h5 class="my-5">Submit button right</h5>
+        <h5 class="mt-5">Submit button right</h5>
         <p>default</p>
         <p>with HTML "form" tag & PHP</p>
         <form method="post">
